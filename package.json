@@ -1,0 +1,23 @@
+{
+  "name": "daniextechltd",
+  "version": "1.0.0",
+  "description": "Official Company website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSselugo/Daniextechltd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielSselugo/Daniextechltd/issues"
+  },
+  "homepage": "https://github.com/DanielSselugo/Daniextechltd#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
